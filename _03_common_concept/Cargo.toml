@@ -9,4 +9,8 @@ edition = "2021"
 name = "variable"
 path = "src/variable.rs"
 
+[[bin]]
+name = "data_type"
+path = "src/data_type.rs"
+
 [dependencies]
