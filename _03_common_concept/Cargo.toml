@@ -13,4 +13,8 @@ path = "src/variable.rs"
 name = "data_type"
 path = "src/data_type.rs"
 
+[[bin]]
+name = "function"
+path = "src/function.rs"
+
 [dependencies]
