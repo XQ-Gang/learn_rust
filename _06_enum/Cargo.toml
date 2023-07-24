@@ -9,4 +9,8 @@ edition = "2021"
 name = "definition"
 path = "src/definition.rs"
 
+[[bin]]
+name = "option"
+path = "src/option.rs"
+
 [dependencies]
