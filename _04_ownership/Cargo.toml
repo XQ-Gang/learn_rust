@@ -21,5 +21,8 @@ path = "src/ownership3.rs"
 name = "reference"
 path = "src/reference.rs"
 
+[[bin]]
+name = "slice"
+path = "src/slice.rs"
 
 [dependencies]
