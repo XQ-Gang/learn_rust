@@ -13,4 +13,8 @@ path = "src/definition.rs"
 name = "option"
 path = "src/option.rs"
 
+[[bin]]
+name = "match"
+path = "src/match.rs"
+
 [dependencies]
