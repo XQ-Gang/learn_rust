@@ -17,4 +17,8 @@ path = "src/option.rs"
 name = "match"
 path = "src/match.rs"
 
+[[bin]]
+name = "if_let"
+path = "src/if_let.rs"
+
 [dependencies]
